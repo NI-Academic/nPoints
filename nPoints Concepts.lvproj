@@ -10,18 +10,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Color Pulse.vi" Type="VI" URL="../SubVIs/Color Pulse.vi"/>
-		<Item Name="Com line states.ctl" Type="VI" URL="../SubVIs/Com line states.ctl"/>
-		<Item Name="Defer Top Level Updates.vi" Type="VI" URL="../SubVIs/Defer Top Level Updates.vi"/>
-		<Item Name="Message States.ctl" Type="VI" URL="../SubVIs/Message States.ctl"/>
 		<Item Name="nPoints Concept - Digital Temp.vi" Type="VI" URL="../nPoints Concept - Digital Temp.vi"/>
 		<Item Name="nPoints Concept - Hall Effect.vi" Type="VI" URL="../nPoints Concept - Hall Effect.vi"/>
-		<Item Name="nPoints Path.vi" Type="VI" URL="../SubVIs/nPoints Path.vi"/>
-		<Item Name="Pop Up Button Animator.vi" Type="VI" URL="../SubVIs/Pop Up Button Animator.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="user.lib" Type="Folder">
-				<Item Name="Store Last N Elements.vi" Type="VI" URL="/&lt;userlib&gt;/H_Utilities/Store Last N Elements.vi"/>
-			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -203,10 +194,12 @@
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
+			<Item Name="Color Pulse.vi" Type="VI" URL="../SubVIs/Color Pulse.vi"/>
 			<Item Name="Hall Effect Animator.vi" Type="VI" URL="../SubVIs/Hall Effect Animator.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="nPoints Path.vi" Type="VI" URL="../SubVIs/nPoints Path.vi"/>
 			<Item Name="Rescale.vi" Type="VI" URL="../SubVIs/Rescale.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
