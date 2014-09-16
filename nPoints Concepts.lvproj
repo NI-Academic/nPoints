@@ -12,7 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="nPoints Concept - Digital Temp.vi" Type="VI" URL="../nPoints Concept - Digital Temp.vi"/>
 		<Item Name="nPoints Concept - Hall Effect.vi" Type="VI" URL="../nPoints Concept - Hall Effect.vi"/>
-		<Item Name="nPoints Concept - Microphone.vi" Type="VI" URL="../nPoints Concept - Microphone.vi"/>
+		<Item Name="nPoints Concept - Microphone_.vi" Type="VI" URL="../nPoints Concept - Microphone_.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Bit-array To Byte-array.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Bit-array To Byte-array.vi"/>
