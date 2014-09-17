@@ -10,6 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="nPoints Concept - 7 Segment LED.vi" Type="VI" URL="../nPoints Concept - 7 Segment LED.vi"/>
 		<Item Name="nPoints Concept - Digital Temp.vi" Type="VI" URL="../nPoints Concept - Digital Temp.vi"/>
 		<Item Name="nPoints Concept - Hall Effect.vi" Type="VI" URL="../nPoints Concept - Hall Effect.vi"/>
 		<Item Name="nPoints Concept - LED.vi" Type="VI" URL="../nPoints Concept - LED.vi"/>
